@@ -1,4 +1,5 @@
 ## About
+[![Build Status](https://travis-ci.org/DengYiping/typescript-algorithms.svg?branch=master)](https://travis-ci.org/DengYiping/typescript-algorithms)
 This project implements common Computer Science data structure in TypeScript, in a type-safe and generic manner.
 
 ## Development Guide
