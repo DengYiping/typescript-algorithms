@@ -1,14 +1,15 @@
-import DummyClass from "../src/typescript-algorithms"
+import algo from '../src/typescript-algorithms'
 
 /**
- * Dummy test
+ * TypeScript Algo test
  */
-describe("Dummy test", () => {
-  it("works if true is truthy", () => {
+describe('TypeScript Algo module', () => {
+  it('works if true is truthy', () => {
     expect(true).toBeTruthy()
   })
 
-  it("DummyClass is instantiable", () => {
-    expect(new DummyClass()).toBeInstanceOf(DummyClass)
+  it('should have all the key value for all the module', () => {
+    expect(algo).toBeTruthy()
+    expect(algo.Bitmap).toBeTruthy()
   })
 })
