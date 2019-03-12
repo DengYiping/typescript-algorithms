@@ -1,6 +1,6 @@
 {
-  "name": "typescript-algorithms",
-  "version": "0.0.0",
+  "name": "typescript-algo",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "main": "dist/typescript-algorithms.umd.js",
