@@ -6,9 +6,9 @@ This project implements common Computer Science data structure in TypeScript, in
 
 ## Development Guide
 ## Sprint 1 Implementation: sorting
-- [ ] quick sort
+- [x] quick sort
 - [ ] merge sort
-- [ ] insertion sort
+- [x] insertion sort
 - [ ] heap sort
 ## License
 The code in this repository is distributed under the terms of the MIT license.
