@@ -1,5 +1,5 @@
 // Commonly used swap function
-function swap<T>(array: Array<T>, idx1: number, idx2: number) {
+export function swap<T>(array: Array<T>, idx1: number, idx2: number) {
   let tmp = array[idx1]
   array[idx1] = array[idx2]
   array[idx2] = tmp
